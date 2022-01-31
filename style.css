@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container {
+    height: 100vh;
+    width: 100%
+    padding-lefts: 5%;
+    padding: right 5%
+    position: relative;
+}
+.rabsumar {
+    left: 80px;
+	margin-left: 60%;
+	top: 30%;
+    padding-top: -5%;
+    }
+.rabsumar .btn {
+    display: inline-table;
+	background: linear-gradient(25deg, greenyellow, rgb(25, 29, 20));
+	border-radius: 6px;
+    padding: 20px;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+.rabiu { 
+    padding-left: 60%;
+    padding-top: 15px; 
+    margin-top: -55%;
+}
+.rabiu ul li{
+    color: black;
+    text-decoration-color: black;
+    margin: 5%;
+    font-size: 20px
+}
+.social-links{
+	transform: rotate(-90deg);
+	position: absolute;
+	right: -80px;
+	bottom: 130px;
+}
+.social-links a{
+	text-decoration: none;
+	color: #6a7199;
+	padding-right: 30px;
+	font-size: 25px;
+}
